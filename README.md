@@ -179,7 +179,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4&rank=B,C,UNKNOWN,UNRANKED" />
 
 </div>
 
@@ -219,82 +223,6 @@
 | **Design & Productivity** | Figma · Adobe Lightroom · Notion · VS Code · Anaconda |
 
 </div>
-
-<br/>
-
----
-
-<!-- ══════════════  WAKATIME STATS  ═══════════════════════════════ -->
-
-## ⏱️ &nbsp;Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 28.3 kB Used in GitHub's Storage 
- > 
-> 🏆 43 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-🌆 Daytime                370 commits         ██████████░░░░░░░░░░░░░░░   38.78 % 
-🌃 Evening                357 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌙 Night                  80 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Tuesday                  177 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Wednesday                192 commits         █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Thursday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
-Friday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-Saturday                 112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Sunday                   104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
-Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/main/assets/bar_graph.png)
-
-Last Updated on 18/03/2026 06:56:15 UTC
-<!--END_SECTION:waka-->
 
 <br/>
 
