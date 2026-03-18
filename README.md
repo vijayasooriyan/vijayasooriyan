@@ -56,8 +56,6 @@
 
 🤖 &nbsp;I build **real-world AI applications** — from deep learning models to full-stack platforms
 
-🔭 &nbsp;Currently working on **production ML pipelines** and **AI-powered SaaS apps**
-
 🌱 &nbsp;Deepening expertise in **CNNs, model optimization & backend system design**
 
 🤝 &nbsp;Open to **collaborations** on ML projects, open-source AI tools & impactful products
@@ -66,7 +64,7 @@
 
 📫 &nbsp;Reach me at **svijayasooriyan@gmail.com**
 
-⚡ &nbsp;Fun fact — I love turning **"what if"** ideas into **working AI products** 🚀
+⚡ &nbsp;I love turning **"what if"** ideas into **working AI products** 🚀
 
 <br clear="right"/>
 <div align="center">
@@ -171,23 +169,7 @@
 
 <br/>
 
----
 
-<!-- ══════════════  TROPHIES  ════════════════════════════════════ -->
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3" />
-</a>
-
-</div>
-
-<br/>
-
----
 
 <!-- ══════════════  CONTRIBUTION GRAPH  ══════════════════════════ -->
 
