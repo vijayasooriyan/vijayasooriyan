@@ -1,32 +1,44 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF9C,100:0d1117&height=200&section=header&text=Vijayasooriyan%20Kamarajah&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=16&animation=fadeIn" />
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              VIJAYASOORIYAN KAMARAJAH — GITHUB PROFILE     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;Deep+Learning+%7C+Neural+Networks+%7C+CNNs;React+%2B+Node.js+%2B+FastAPI+%2B+Python;Open+to+Collaborate+%E2%80%94+Let%27s+Build+Together!)](https://git.io/typing-svg)
+<!-- ── HEADER BANNER ───────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vijayasooriyan%20Kamarajah&fontSize=40&fontColor=fff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%20%E2%80%A2%20%20Full-Stack%20Developer%20%20%E2%80%A2%20%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descSize=15&descAlignY=55&animation=twinkling" />
 
-<br/>
-
-<a href="https://linkedin.com/in/vijayasooriyan-kamarajah234">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:svijayasooriyan@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://instagram.com/vj_surya___">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/vijayasooriyan-kamarajah">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white" />
+<!-- ── TYPING ANIMATION ─────────────────────────────────────── -->
+<a href="https://github.com/vijayasooriyan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=650&lines=Building+Real-World+AI+Applications+%F0%9F%A4%96;Deep+Learning+%7C+CNNs+%7C+Model+Deployment;React+%2B+Node.js+%2B+FastAPI+%2B+TensorFlow;Open+Source+Contributor+%7C+Lifelong+Learner;Let%27s+Collaborate+and+Build+Something+Great!" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vijayasooriyan&label=Profile+Views&color=00FF9C&style=flat-square" />
-<img src="https://img.shields.io/github/followers/vijayasooriyan?label=Followers&style=flat-square&color=00FF9C" />
+<!-- ── SOCIAL BADGES ───────────────────────────────────────── -->
+<a href="https://linkedin.com/in/vijayasooriyan-kamarajah234">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:svijayasooriyan@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://instagram.com/vj_surya___">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/vijayasooriyan-kamarajah">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://buymeacoffee.com/vijayasooriyan">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<!-- ── PROFILE METRICS ─────────────────────────────────────── -->
+<img src="https://komarev.com/ghpvc/?username=vijayasooriyan&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/vijayasooriyan?label=Followers&style=flat-square&color=58A6FF&labelColor=1c1c1c" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/vijayasooriyan?label=Stars&style=flat-square&color=58A6FF&labelColor=1c1c1c" />
 
 </div>
 
@@ -34,87 +46,86 @@
 
 ---
 
-## ⚡ About Me
+<!-- ═══════════════════════════  ABOUT ME  ═══════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
 ```python
-class Vijayasooriyan:
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-    name        =  "Vijayasooriyan Kamarajah"
-    location    =  "Sri Lanka 🇱🇰"
-    roles       =  ["AI/ML Engineer", "Full-Stack Developer"]
+class VijayasooriyanKamarajah:
+    """
+    AI/ML Engineer & Full-Stack Developer from Sri Lanka 🇱🇰
+    Turning ideas into real-world AI applications since day one.
+    """
 
-    currently   =  ["AI/ML projects — Python & TensorFlow",
-                    "Full-stack apps — React + Node.js",
-                    "Real-world AI deployment pipelines"]
+    def __init__(self):
+        self.name        = "Vijayasooriyan Kamarajah"
+        self.location    = "Sri Lanka 🇱🇰"
+        self.roles       = ["AI/ML Engineer", "Full-Stack Developer", "Open-Source Enthusiast"]
+        self.email       = "svijayasooriyan@gmail.com"
 
-    learning    =  ["CNNs & Model Optimization",
-                    "Data Science & Model Evaluation",
-                    "Backend System Design"]
+    @property
+    def currently_building(self) -> list:
+        return [
+            "🤖  Production-grade deep learning models (Python + TensorFlow)",
+            "🌐  Full-stack AI-powered applications (React + Node.js + FastAPI)",
+            "🚀  Real-world AI deployment pipelines",
+        ]
 
-    stack       =  {
-                      "AI/ML"     : ["TensorFlow", "Keras", "scikit-learn", "OpenCV"],
-                      "Backend"   : ["Python", "Node.js", "FastAPI", "Flask", "Express"],
-                      "Frontend"  : ["React", "TailwindCSS", "Vite", "HTML5"],
-                      "Databases" : ["MongoDB", "MySQL", "SQLite"],
-                      "DevOps"    : ["Git", "GitHub", "Vercel", "Render"]
-                   }
+    @property
+    def learning(self) -> list:
+        return [
+            "🧠  CNNs & Advanced Model Optimization",
+            "📊  Data Science & Model Evaluation",
+            "⚙️   Backend System Design & Scalability",
+        ]
 
-    passion     =  "Turning ideas into real-world AI applications 🤖"
-    open_to     =  "ML collaborations, open-source AI tools, internships & roles"
-    contact     =  "svijayasooriyan@gmail.com"
+    @property
+    def tech_stack(self) -> dict:
+        return {
+            "AI/ML"      : ["TensorFlow", "Keras", "scikit-learn", "OpenCV", "NumPy", "Pandas"],
+            "Backend"    : ["Python", "Node.js", "FastAPI", "Flask", "Express.js"],
+            "Frontend"   : ["React", "TailwindCSS", "Vite", "HTML5", "JavaScript"],
+            "Databases"  : ["MongoDB", "MySQL", "SQLite"],
+            "DevOps"     : ["Git", "GitHub Actions", "Vercel", "Render", "Docker"],
+            "Tools"      : ["Figma", "Notion", "Anaconda", "VS Code", "Cisco"],
+        }
+
+    def __str__(self) -> str:
+        return "Passionate about building things that matter 🔥"
+
+
+me = VijayasooriyanKamarajah()
+print(me)
+# → Passionate about building things that matter 🔥
 ```
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════  SKILL ICONS  ══════════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-### 🧠 AI / Machine Learning
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+### Core Languages & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,c,cpp,java,js,php,html,css&theme=dark" />
+</p>
 
-### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,express,tailwind,vite&theme=dark" />
+</p>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 🗄️ Databases & Deployment
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Databases, DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vercel,docker,figma,vscode,notion&theme=dark" />
+</p>
 
 </div>
 
@@ -122,24 +133,26 @@ class Vijayasooriyan:
 
 ---
 
-## 📊 GitHub Analytics
+<!-- ════════════════  GITHUB STATS  ════════════════════════════ -->
+
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vijayasooriyan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&icon_color=00FF9C&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117" width="420"/>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=vijayasooriyan&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Vijay's+GitHub+Stats&icon_color=58A6FF&title_color=58A6FF" width="415" />
     </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=vijayasooriyan&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&background=0d1117" width="420"/>
+    <td valign="top">
+      <img src="https://nirzak-streak-stats.vercel.app/?user=vijayasooriyan&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&background=22272e&stroke=58A6FF" width="415" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayasooriyan&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FF9C&text_color=c9d1d9&bg_color=0d1117" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayasooriyan&theme=github_dark_dimmed&hide_border=true&layout=compact&langs_count=8&title_color=58A6FF&bg_color=22272e" width="415" />
 
 </div>
 
@@ -147,11 +160,21 @@ class Vijayasooriyan:
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ══════════════  PROFILE SUMMARY CARD  ═══════════════════════ -->
+
+## 🎯 &nbsp;Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+[![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijayasooriyan&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijayasooriyan&theme=github_dark" width="270" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijayasooriyan&theme=github_dark" width="270" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijayasooriyan&theme=github_dark&utcOffset=5.5" width="270" /></td>
+  </tr>
+</table>
 
 </div>
 
@@ -159,11 +182,13 @@ class Vijayasooriyan:
 
 ---
 
-## 📈 Contribution Graph
+<!-- ══════════════  TROPHIES  ════════════════════════════════════ -->
+
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijayasooriyan&bg_color=0d1117&color=00FF9C&line=00FF9C&point=ffffff&area=true&area_color=00FF9C&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -171,18 +196,13 @@ class Vijayasooriyan:
 
 ---
 
-## 🎯 2025 Goals
+<!-- ══════════════  CONTRIBUTION GRAPH  ══════════════════════════ -->
+
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
 
-| Goal | Status |
-|:-----|:------:|
-| 🤖 Deploy a production-grade deep learning model | 🔄 In Progress |
-| 🌐 Build & ship a full-stack AI-powered SaaS app | 🔄 In Progress |
-| 📚 Master CNNs & advanced model optimization | 🔄 In Progress |
-| ⭐ Reach 50+ GitHub stars across projects | 🎯 Target |
-| 🤝 Contribute to 5+ open-source AI repositories | 🎯 Target |
-| 🏅 Earn a deep learning certification | 🎯 Target |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vijayasooriyan&bg_color=22272e&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Vijayasooriyan's+Contribution+Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -190,11 +210,25 @@ class Vijayasooriyan:
 
 ---
 
-## 💬 Dev Quote of the Day
+<!-- ══════════════  SNAKE ANIMATION  ═════════════════════════════ -->
+
+## 🐍 &nbsp;My Contribution Snake
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- 
+  ⚙️  TO ACTIVATE THE SNAKE:
+  1. Go to your profile repo: github.com/vijayasooriyan/vijayasooriyan
+  2. Create: .github/workflows/snake.yml
+  3. Paste the workflow below, commit, and run it manually once
+  4. The snake SVG will appear here automatically!
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -202,37 +236,159 @@ class Vijayasooriyan:
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+<!-- ══════════════  WAKATIME STATS  ═══════════════════════════════ -->
+
+## ⏱️ &nbsp;Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+> 🔧 **Set up WakaTime** to see live coding stats here automatically!
+> 
+> **How:** Install [WakaTime](https://wakatime.com) in your IDE → get your API key → add `WAKATIME_API_KEY` to repo secrets → create `.github/workflows/waka-readme.yml`
+<!--END_SECTION:waka-->
+
+<br/>
+
+---
+
+<!-- ══════════════  2025 GOALS  ════════════════════════════════════ -->
+
+## 🎯 &nbsp;2025 Milestones
 
 <div align="center">
 
-> *I'm always open to interesting conversations, collaborations, and opportunities.*
-> *If you're building something in AI/ML or full-stack — let's talk!*
+| # | Goal | Status |
+|:---:|:---|:---:|
+| 01 | 🤖 Deploy a production ML model serving real users | 🔄 In Progress |
+| 02 | 🌐 Ship a full-stack AI-powered SaaS application | 🔄 In Progress |
+| 03 | 🧠 Master CNNs, Transformers & model optimization | 🔄 In Progress |
+| 04 | ⭐ Reach 100+ GitHub stars across projects | 🎯 Target |
+| 05 | 🤝 Contribute to 5+ open-source AI repositories | 🎯 Target |
+| 06 | 🏅 Complete a recognized deep learning certification | 🎯 Target |
+| 07 | 📝 Write technical blog posts about AI/ML learnings | 🎯 Target |
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════  QUOTE  ══════════════════════════════════════════ -->
+
+## 💭 &nbsp;Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ══════════════  CONNECT  ═══════════════════════════════════════ -->
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+> *I'm always open to interesting conversations, collaborations, and new opportunities.*
+> *Building in AI/ML or full-stack? Let's connect and create something amazing!*
 
 <br/>
 
 <a href="https://linkedin.com/in/vijayasooriyan-kamarajah234">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://instagram.com/vj_surya___">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://stackoverflow.com/users/vijayasooriyan-kamarajah">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:svijayasooriyan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-Send%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://buymeacoffee.com/vijayasooriyan">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://instagram.com/vj_surya___">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF9C,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<br/>
+
+---
+
+<!-- ══════════════  FOOTER  ════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+
+<sub>⭐ <b>Found my profile interesting? Consider starring my repos — it motivates me to build more!</b> ⭐</sub>
 
 </div>
+
+---
+
+<!--
+════════════════════════════════════════════════════════════════
+  🐍  SNAKE WORKFLOW — save as .github/workflows/snake.yml
+════════════════════════════════════════════════════════════════
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+════════════════════════════════════════════════════════════════
+  ⏱️  WAKATIME WORKFLOW — save as .github/workflows/waka.yml
+════════════════════════════════════════════════════════════════
+
+name: WakaTime Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LOC_CHART: "True"
+          SHOW_PROFILE_VIEWS: "False"
+
+════════════════════════════════════════════════════════════════
+-->
