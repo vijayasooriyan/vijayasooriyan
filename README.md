@@ -50,57 +50,48 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-class VijayasooriyanKamarajah:
-    """
-    AI/ML Engineer & Full-Stack Developer from Sri Lanka 🇱🇰
-    Turning ideas into real-world AI applications since day one.
-    """
+👋 &nbsp;Hi! I'm **Vijayasooriyan**, an AI/ML Engineer & Full-Stack Developer from **Sri Lanka 🇱🇰**
 
-    def __init__(self):
-        self.name        = "Vijayasooriyan Kamarajah"
-        self.location    = "Sri Lanka 🇱🇰"
-        self.roles       = ["AI/ML Engineer", "Full-Stack Developer", "Open-Source Enthusiast"]
-        self.email       = "svijayasooriyan@gmail.com"
+🤖 &nbsp;I build **real-world AI applications** — from deep learning models to full-stack platforms
 
-    @property
-    def currently_building(self) -> list:
-        return [
-            "🤖  Production-grade deep learning models (Python + TensorFlow)",
-            "🌐  Full-stack AI-powered applications (React + Node.js + FastAPI)",
-            "🚀  Real-world AI deployment pipelines",
-        ]
+🔭 &nbsp;Currently working on **production ML pipelines** and **AI-powered SaaS apps**
 
-    @property
-    def learning(self) -> list:
-        return [
-            "🧠  CNNs & Advanced Model Optimization",
-            "📊  Data Science & Model Evaluation",
-            "⚙️   Backend System Design & Scalability",
-        ]
+🌱 &nbsp;Deepening expertise in **CNNs, model optimization & backend system design**
 
-    @property
-    def tech_stack(self) -> dict:
-        return {
-            "AI/ML"      : ["TensorFlow", "Keras", "scikit-learn", "OpenCV", "NumPy", "Pandas"],
-            "Backend"    : ["Python", "Node.js", "FastAPI", "Flask", "Express.js"],
-            "Frontend"   : ["React", "TailwindCSS", "Vite", "HTML5", "JavaScript"],
-            "Databases"  : ["MongoDB", "MySQL", "SQLite"],
-            "DevOps"     : ["Git", "GitHub Actions", "Vercel", "Render", "Docker"],
-            "Tools"      : ["Figma", "Notion", "Anaconda", "VS Code", "Cisco"],
-        }
+🤝 &nbsp;Open to **collaborations** on ML projects, open-source AI tools & impactful products
 
-    def __str__(self) -> str:
-        return "Passionate about building things that matter 🔥"
+💬 &nbsp;Ask me about **Python, TensorFlow, React, Node.js** or **getting started in AI/ML**
 
+📫 &nbsp;Reach me at **svijayasooriyan@gmail.com**
 
-me = VijayasooriyanKamarajah()
-print(me)
-# → Passionate about building things that matter 🔥
-```
+⚡ &nbsp;Fun fact — I love turning **"what if"** ideas into **working AI products** 🚀
+
+<br clear="right"/>
+
+<table>
+  <tr>
+    <td><b>🔭 Building</b></td>
+    <td>Production deep learning models · AI-powered full-stack apps · Real-world deployment pipelines</td>
+  </tr>
+  <tr>
+    <td><b>🌱 Learning</b></td>
+    <td>CNNs & model optimization · Data science & evaluation · Backend system design</td>
+  </tr>
+  <tr>
+    <td><b>🛠 Stack</b></td>
+    <td>Python · TensorFlow · React · Node.js · FastAPI · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>🤝 Open to</b></td>
+    <td>ML collaborations · Open-source AI · Internships & full-time roles</td>
+  </tr>
+  <tr>
+    <td><b>📍 Based in</b></td>
+    <td>Sri Lanka 🇱🇰</td>
+  </tr>
+</table>
 
 <br/>
 
