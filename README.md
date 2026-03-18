@@ -52,11 +52,9 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 
-👋 &nbsp;Hi! I'm **Vijayasooriyan**, an AI/ML Engineer & Full-Stack Developer from **Sri Lanka 🇱🇰**
+👋 &nbsp;Hi! I'm **Vijayasooriyan**, an AI/ML Engineer & Full-Stack Developer from **Sri Lanka**
 
 🤖 &nbsp;I build **real-world AI applications** — from deep learning models to full-stack platforms
-
-🔭 &nbsp;Currently working on **production ML pipelines** and **AI-powered SaaS apps**
 
 🌱 &nbsp;Deepening expertise in **CNNs, model optimization & backend system design**
 
@@ -66,7 +64,7 @@
 
 📫 &nbsp;Reach me at **svijayasooriyan@gmail.com**
 
-⚡ &nbsp;Fun fact — I love turning **"what if"** ideas into **working AI products** 🚀
+⚡ &nbsp;I love turning **"what if"** ideas into **working AI products** 🚀
 
 <br clear="right"/>
 
@@ -89,7 +87,7 @@
   </tr>
   <tr>
     <td><b>📍 Based in</b></td>
-    <td>Sri Lanka 🇱🇰</td>
+    <td>Sri Lanka</td>
   </tr>
 </table>
 
