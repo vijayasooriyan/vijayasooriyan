@@ -179,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=vijayasooriyan&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=4" />
 
 </div>
 
@@ -203,23 +203,17 @@
 
 <!-- ══════════════  SNAKE ANIMATION  ═════════════════════════════ -->
 
-## 🐍 &nbsp;My Contribution Snake
+## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-
-<!-- 
-  ⚙️  TO ACTIVATE THE SNAKE:
-  1. Go to your profile repo: github.com/vijayasooriyan/vijayasooriyan
-  2. Create: .github/workflows/snake.yml
-  3. Paste the workflow below, commit, and run it manually once
-  4. The snake SVG will appear here automatically!
--->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake-dark.svg" />
 </picture>
+
+> ⚙️ **Activate the snake:** Create `.github/workflows/snake.yml` in this repo using the workflow at the bottom of this file, then run it once from the **Actions** tab.
 
 </div>
 
@@ -229,12 +223,38 @@
 
 <!-- ══════════════  WAKATIME STATS  ═══════════════════════════════ -->
 
-## ⏱️ &nbsp;Weekly Dev Breakdown
+## 💼 &nbsp;Skills & Experience
+
+<div align="center">
+
+| Domain | Skills |
+|:---|:---|
+| **Machine Learning & AI** | Deep Learning · Neural Networks · CNNs · Model Training & Evaluation · Model Deployment · Computer Vision · scikit-learn · OpenCV |
+| **Frameworks & Libraries** | TensorFlow · Keras · Pandas · NumPy · Matplotlib · FastAPI · Flask · Express.js |
+| **Frontend Development** | React.js · JavaScript (ES6+) · TailwindCSS · HTML5 · CSS3 · Vite |
+| **Backend Development** | Node.js · Python · REST API Design · JWT Authentication · PHP |
+| **Databases** | MongoDB · MySQL · SQLite · NoSQL · SQL |
+| **DevOps & Tools** | Git · GitHub Actions · Vercel · Render · Appwrite · Docker (learning) |
+| **Languages** | Python · JavaScript · Java · C++ · PHP |
+| **Design & Productivity** | Figma · Adobe Lightroom · Notion · VS Code · Anaconda |
+
+</div>
+
+<br/>
+
+---
+
+## ⏱️ &nbsp;Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-> 🔧 **Set up WakaTime** to see live coding stats here automatically!
-> 
-> **How:** Install [WakaTime](https://wakatime.com) in your IDE → get your API key → add `WAKATIME_API_KEY` to repo secrets → create `.github/workflows/waka-readme.yml`
+
+> 🔧 **WakaTime is not yet configured.** Once set up, live stats (languages, editors, OS, daily hours) will auto-populate here every 24 hours.
+>
+> **Setup in 3 steps:**
+> 1. Sign up at [wakatime.com](https://wakatime.com) & install the IDE plugin
+> 2. Add `WAKATIME_API_KEY` + `GH_TOKEN` to this repo's **Settings → Secrets**
+> 3. Create `.github/workflows/waka.yml` using the workflow at the bottom of this file
+
 <!--END_SECTION:waka-->
 
 <br/>
