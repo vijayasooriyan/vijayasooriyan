@@ -201,27 +201,7 @@
 
 ---
 
-<!-- ══════════════  SNAKE ANIMATION  ═════════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" width="100%" src="https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> ⚙️ **Activate the snake:** Create `.github/workflows/snake.yml` in this repo using the workflow at the bottom of this file, then run it once from the **Actions** tab.
-
-</div>
-
-<br/>
-
----
-
-<!-- ══════════════  WAKATIME STATS  ═══════════════════════════════ -->
+<!-- ══════════════  SKILLS & EXPERIENCE  ═════════════════════════ -->
 
 ## 💼 &nbsp;Skills & Experience
 
@@ -243,6 +223,8 @@
 <br/>
 
 ---
+
+<!-- ══════════════  WAKATIME STATS  ═══════════════════════════════ -->
 
 ## ⏱️ &nbsp;Weekly Coding Activity
 
@@ -307,14 +289,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/vijayasooriyan/vijayasooriyan/main/assets/bar_graph.png)
 
-
- Last Updated on 18/03/2026 06:56:15 UTC
+Last Updated on 18/03/2026 06:56:15 UTC
 <!--END_SECTION:waka-->
 
 <br/>
@@ -395,71 +374,3 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 <sub>⭐ <b>Found my profile interesting? Consider starring my repos — it motivates me to build more!</b> ⭐</sub>
 
 </div>
-
----
-
-<!--
-════════════════════════════════════════════════════════════════
-  🐍  SNAKE WORKFLOW — save as .github/workflows/snake.yml
-════════════════════════════════════════════════════════════════
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-════════════════════════════════════════════════════════════════
-  ⏱️  WAKATIME WORKFLOW — save as .github/workflows/waka.yml
-════════════════════════════════════════════════════════════════
-
-name: WakaTime Stats
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update README with WakaTime Stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "False"
-          SHOW_EDITORS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
-          SHOW_PROFILE_VIEWS: "False"
-
-════════════════════════════════════════════════════════════════
--->
